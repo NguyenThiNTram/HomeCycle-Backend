@@ -1,0 +1,6 @@
+@HomeCycle.API_HostAddress = http://localhost:5035
+
+GET {{HomeCycle.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
